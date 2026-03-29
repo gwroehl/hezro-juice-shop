@@ -314,7 +314,7 @@ The OWASP Juice Shop core project team are:
 - [Timo Pagel](https://github.com/wurstbrot) aka `wurstbrot`
 
 For a list of all contributors to the OWASP Juice Shop please visit our
-[HALL_OF_FAME.md](HALL_OF_FAME.md).
+[HALL_OF_FAME.md](HALL_OF_FAME.md)..
 
 ## Licensing
 
